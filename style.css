@@ -124,6 +124,9 @@ nav button{
     margin-left: auto;
 }
 
+hr{
+    border: 5px solid  #303030;
+}
 
 .faq{
     padding: 18px 12%;
